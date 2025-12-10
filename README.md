@@ -33,14 +33,14 @@ SmartStock aggregates daily stock data in Snowflake, continuously computes risk 
 
 ## 🌟 Features
 
-✔ Daily inventory/usage ingestion
-✔ Rolling demand estimation
-✔ Days-of-cover + Stock-out probability
-✔ Streamlit dashboard & heatmap
-✔ Reorder suggestion engine
-✔ Downloadable procurement CSV
-✔ Action logging with Unistore
-✔ Optional Cortex / AI SQL summaries
+✔ Daily inventory/usage ingestion <br>
+✔ Rolling demand estimation <br>
+✔ Days-of-cover + Stock-out probability <br>
+✔ Streamlit dashboard & heatmap <br>
+✔ Reorder suggestion engine <br>
+✔ Downloadable procurement CSV <br>
+✔ Action logging with Unistore <br>
+✔ Cortex / AI SQL summaries
 
 ---
 
@@ -53,7 +53,7 @@ SmartStock aggregates daily stock data in Snowflake, continuously computes risk 
 * Snowpark Python (forecast UDFs)
 * Unistore (Hybrid Tables for action logs)
 * Streamlit UI
-* (Optional) Cortex / AI SQL for summarization
+* Cortex / AI SQL for summarization
 
 ### Data flow
 
